@@ -1,0 +1,20 @@
+{
+  "id": "2f449511-417a-442f-9cac-f71d1cda030e",
+  "title": "Explain MVP mindset principle",
+  "titleGenerationStatus": "success",
+  "createdAt": 1768647956874,
+  "updatedAt": 1768696311909,
+  "lastResponseAt": 1768647956876,
+  "sessionId": "2f449511-417a-442f-9cac-f71d1cda030e",
+  "sdkSessionId": "2f449511-417a-442f-9cac-f71d1cda030e",
+  "currentNote": "Archive/ai-guide/Vibe Coding 零基础教程/30 经验技巧/01 Vibe Coding 五大核心心法.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 22593,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 17152,
+    "contextWindow": 200000,
+    "contextTokens": 39745,
+    "percentage": 20
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "57d4c06f-bab9-4343-baa0-b25200f4bd5c",
+  "title": "总结AI IDE插件工具对比</arg_value>",
+  "titleGenerationStatus": "success",
+  "createdAt": 1768642354872,
+  "updatedAt": 1768642547140,
+  "lastResponseAt": 1768642354874,
+  "sessionId": "57d4c06f-bab9-4343-baa0-b25200f4bd5c",
+  "sdkSessionId": "57d4c06f-bab9-4343-baa0-b25200f4bd5c",
+  "currentNote": "Archive/ai-guide/Vibe Coding 零基础教程/10 编程工具/06 AI IDE 插件.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 19524,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 16908,
+    "contextWindow": 200000,
+    "contextTokens": 36432,
+    "percentage": 18
+  }
+}

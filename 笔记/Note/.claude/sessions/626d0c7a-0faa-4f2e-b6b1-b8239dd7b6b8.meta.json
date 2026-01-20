@@ -1,0 +1,20 @@
+{
+  "id": "626d0c7a-0faa-4f2e-b6b1-b8239dd7b6b8",
+  "title": "Explain JWT token authentication",
+  "titleGenerationStatus": "success",
+  "createdAt": 1768646956299,
+  "updatedAt": 1768647942461,
+  "lastResponseAt": 1768647507277,
+  "sessionId": "626d0c7a-0faa-4f2e-b6b1-b8239dd7b6b8",
+  "sdkSessionId": "626d0c7a-0faa-4f2e-b6b1-b8239dd7b6b8",
+  "currentNote": "Archive/ai-guide/Vibe Coding 零基础教程/20 项目实战/04 Vibe Coding 全栈应用开发.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 24132,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 100166,
+    "contextWindow": 200000,
+    "contextTokens": 124298,
+    "percentage": 62
+  }
+}

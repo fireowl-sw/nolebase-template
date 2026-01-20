@@ -1,0 +1,37 @@
+{
+  "id": "071261bf-d107-4d68-b7bc-3a9ede39a2ef",
+  "title": "Extract core task breakdown list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1768696353756,
+  "updatedAt": 1768702114783,
+  "lastResponseAt": 1768696916282,
+  "sessionId": "071261bf-d107-4d68-b7bc-3a9ede39a2ef",
+  "sdkSessionId": "071261bf-d107-4d68-b7bc-3a9ede39a2ef",
+  "currentNote": "Archive/Diary/2026-01-18.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 35471,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 188800,
+    "contextWindow": 200000,
+    "contextTokens": 224271,
+    "percentage": 100
+  },
+  "toolDiffData": {
+    "call_390d0602389e4840b4625d55": {
+      "filePath": "Archive/Diary/2026-01-18.md",
+      "originalContent": "你觉得我现在最应该做的是什么\nVLA 与 RL方面的知识 学习\n1. 搭建整体学习框架\n   - 首先建立完整的规划体系\n   - 梳理所有需要学习的内容清单\n\n2. AI产品全流程开发\n   - 从头到尾构建、创造、发布一个AI产品\n\n3. 具身智能知识学习\n   - 生成模型基础\n   - 学习强化学习（RL）相关知识\n   - 模仿学习基础\n   - 学习大模型（LLM）相关知识\n\n4. pi0论文复现项目\n   - 从搭建环境开始\n   - 构建完整的项目实现\n\n5. 学校课程规划\n   - 明确今年四门课程的具体任务\n   - 提前准备和安排课程学习计划",
+      "newContent": "你觉得我现在最应该做的是什么\nVLA 与 RL方面的知识 学习\n1. 搭建整体学习框架\n   - 建立规划体系\n   - 梳理学习内容清单\n\n2. AI产品全流程开发\n   - 构建并发布AI产品\n\n3. 具身智能知识学习\n   - 生成模型\n   - 强化学习（RL）\n   - 模仿学习\n   - 大模型（LLM）\n\n4. pi0论文复现项目\n   - 搭建环境\n   - 构建项目实现\n\n5. 学校课程规划\n   - 明确四门课程任务\n   - 制定学习计划"
+    },
+    "call_95123bb5dcc54b2d81e34b2e": {
+      "filePath": "Archive/Diary/2026-01-18.md",
+      "originalContent": "你觉得我现在最应该做的是什么\nVLA 与 RL方面的知识 学习\n1. 搭建整体学习框架\n   - 建立规划体系\n   - 梳理学习内容清单\n\n2. AI产品全流程开发\n   - 构建并发布AI产品\n\n3. 具身智能知识学习\n   - 生成模型\n   - 强化学习（RL）\n   - 模仿学习\n   - 大模型（LLM）\n\n4. pi0论文复现项目\n   - 搭建环境\n   - 构建项目实现\n\n5. 学校课程规划\n   - 明确四门课程任务\n   - 制定学习计划",
+      "newContent": "你觉得我现在最应该做的是什么\nVLA 与 RL方面的知识 学习\n- 搭建整体学习框架，建立规划体系并梳理学习内容清单\n- 构建并发布AI产品\n- 学习具身智能知识：生成模型、强化学习（RL）、模仿学习和大模型（LLM）\n- 复现pi0论文项目：搭建环境并构建项目实现\n- 规划学校课程：明确四门课程任务并制定学习计划"
+    },
+    "call_6a0110352db949a39ab2a15e": {
+      "filePath": "Archive/Diary/2026-01-18.md",
+      "originalContent": "你觉得我现在最应该做的是什么\n\nVLA 与 RL方面的知识 学习\n- 搭建整体学习框架，建立规划体系并梳理学习内容清单\n- 构建并发布AI产品\n- 学习具身智能知识：生成模型、强化学习（RL）、模仿学习和大模型（LLM）\n- 复现pi0论文项目：搭建环境并构建项目实现\n- 规划学校课程：明确四门课程任务并制定学习计划",
+      "newContent": "你觉得我现在最应该做的是什么\n\nVLA 与 RL方面的知识 学习\n- 搭建整体学习框架，建立规划体系并梳理学习内容清单\n- 构建并发布AI产品\n- 规划学校课程：明确四门课程任务并制定学习计划\n- 学习具身智能知识：生成模型、强化学习（RL）、模仿学习和大模型（LLM）\n- 复现pi0论文项目：搭建环境并构建项目实现"
+    }
+  }
+}

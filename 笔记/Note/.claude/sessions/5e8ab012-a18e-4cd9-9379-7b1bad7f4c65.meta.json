@@ -1,0 +1,26 @@
+{
+  "id": "5e8ab012-a18e-4cd9-9379-7b1bad7f4c65",
+  "title": "Refactor documentation to match personal writin...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1768839568869,
+  "updatedAt": 1768839936061,
+  "lastResponseAt": 1768839870065,
+  "sessionId": "5e8ab012-a18e-4cd9-9379-7b1bad7f4c65",
+  "sdkSessionId": "5e8ab012-a18e-4cd9-9379-7b1bad7f4c65",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 49917,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 162176,
+    "contextWindow": 200000,
+    "contextTokens": 212093,
+    "percentage": 100
+  },
+  "toolDiffData": {
+    "call_590571b557ce461cb5736155": {
+      "filePath": "Inbox/happy-code.md",
+      "originalContent": "Happy code用来在手机上远程使用code来编程电脑上的一个项目\n1.# 手机上也能用Claude Code和Codex！很方便，一键搞定\n\n哈喽，大家好，我是刘小排。\n\n我经常遇到这样的场景，不知道你遇到过没？\n\n- 让 Claude Code 跑一个复杂的任务，需要很长时间，突然朋友叫我出去吃饭，我要马上走，但是又舍不得丢下还没跑完的任务。\n    \n- 在外面玩呢，想看看代码跑到哪一步了?\n    \n- 正在马桶上蹲着，手痒，想打开Claude Code玩一玩。\n    \n- 躺床上，突然想和 Claude Code 讨论代码方案\n    \n\n本来想自己搭建一个小产品来解决这个痛点，正调研着呢，发现已经有一个成熟的开源项目，可以直接用了。它就是Happy Coder。\n\n## Happy Coder 能做什么？\n\nHappy Coder 是一个移动端和网页客户端，让你可以**在手机上实时查看和控制电脑上运行的 Claude Code 或 Codex**。\n\n核心功能包括：\n\n- 跨设备无缝切换：手机上查看进度、发送消息，回到电脑前按下键盘就能接管操作\n    \n- 实时语音通讯：支持语音交互\n    \n- 端到端加密：代码数据全程加密，隐私有保障\n    \n- 消息推送：AI 需要授权或遇到错误时，手机立即收到通知\n    \n\n再强调一次！！不用担心安全问题。因为Happy支持端到端加密，你的代码数据全程加密，不会泄露。\n\n## 如何使用？\n\n前提条件：你的电脑上要有能够运行的Claude Code (或Codex)。\n\n因为Happy Coder的原理，并不是在手机上运行Claude Code，而是让你通过手机，连接电脑上的Claude Code\n\n第一步：在电脑上安装并且打开happy\n\n```\nnpm i -g happy-coder \n```\n\n如果你要使用Claude Code，接下来在命令行收入\n\n```\nhappy\n```\n\n如果你喜欢Codex，那需要在命令行输入\n\n```\nhappy codex\n```\n\n接下来你会看到一个二维码\n\n![图片](https://mmbiz.qpic.cn/mmbiz_png/607DKnuWzlENpTibIDpSmic4F8jv6IRaGyv5AzSYS0I2oic73S5Mz85GibvRkHIHcovj925LPDzicBLiaT6hDic2uTsdQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)\n\n第二步：在手机上安装happy的手机客户端\n\n无论是iPhone还是Android，都可以安装。\n\niOS App 地址：\n\nhttps://apps.apple.com/us/app/happy-claude-code-client/id6748571505\n\nAndroid App地址： \n\nhttps://play.google.com/store/apps/details?id=com.ex3ndr.happy\n\n如果你不想安装App，还可以使用网页版客户端。\n\n网页版：\n\n用浏览器打开  https://app.happy.engineering/\n\n不过我感觉还是App更好用一点。\n\n第三步：打开手机上的 Happy App，扫描二维码即可完成配对，建立和电脑的连接\n\n连接成功后，你就能在手机上：\n\n- 实时查看 Claude Code 的运行状态\n    \n- 发送消息与 AI 对话\n    \n- 接收进度通知\n    \n\n![图片](https://mmbiz.qpic.cn/mmbiz_jpg/607DKnuWzlENpTibIDpSmic4F8jv6IRaGyW3HC59XxXia52B4fatFoyiaNlx2Ln0T3IqPAPjbS8OtyuWO3t2HjPXvA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)\n\n第四步：开始使用！！\n\n直接在手机App里就可以聊天了\n\n![图片](https://mmbiz.qpic.cn/mmbiz_jpg/607DKnuWzlENpTibIDpSmic4F8jv6IRaGyIboOGKNj1ibgicXiaiaWdJY929zt0ZWgWbTBQzMdq2abRg4W17zjW6ic3XQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)\n\n对了，是可以同时打开多个Session的，多个任务可以并行做。\n\n![图片](https://mmbiz.qpic.cn/mmbiz_jpg/607DKnuWzlENpTibIDpSmic4F8jv6IRaGyK4m2pHoEKYUZ7IgLiaQOmpBHKDricuibswSGDC7KFOr2NwHx2EftIS4icA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)\n\n当有手机客户端连接电脑时，电脑终端类似下图这样的待机状态。\n\n如果要想回到用电脑，随时按空格键就能切换回电脑操作。\n\n不过，我习惯的方式是：电脑开两个终端，一个终端给手机Happy用，一个电脑用，两个都不耽误。\n\n![图片](https://mmbiz.qpic.cn/mmbiz_png/607DKnuWzlENpTibIDpSmic4F8jv6IRaGyWbianRCxrXRxr5EEAnnj0XK7Ln11WnDIwz3uMAVIOWibQ0MyjHCV5ULw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)\n\n小Tip：记得在手机上安装「豆包语音输入法」，体验最佳！生僻的单词（比如Anthropic、Next.js）也能正确识别！无论你的普通发有多么不飘准，都能识别！\n\n祝你玩得开心！\n\n期待评论区交流",
+      "newContent": "# 📱 Happy Code - 手机远程控制电脑端的 Claude Code/Codex\n\n> **核心功能**：在手机上远程查看和控制电脑上运行的 Claude Code 或 Codex\n\n---\n\n## 💡 应用场景\n\n- 离开电脑时，Claude Code 正在执行长时间任务，需要在外查看进度\n- 出门在外，想实时监控代码运行状态\n- 随时随地通过手机与 AI 讨论代码方案\n- AI 需要授权或遇到错误时，手机立即收到通知\n\n---\n\n## ✨ 核心特性\n\n| 特性 | 说明 |\n|------|------|\n| **跨设备无缝切换** | 手机上查看进度、发送消息，回到电脑前按下键盘即可接管 |\n| **实时语音交互** | 支持语音输入与 AI 对话 |\n| **端到端加密** | 代码数据全程加密，隐私有保障 |\n| **消息推送** | AI 需要授权或遇到错误时，手机立即收到通知 |\n| **多会话并行** | 支持同时打开多个 Session，多个任务并行处理 |\n\n---\n\n## 🔧 安装步骤\n\n### 前提条件\n- 电脑上已安装并能够运行 Claude Code 或 Codex\n- **原理说明**：Happy 并非在手机上运行 Claude Code，而是通过手机连接电脑上的 Claude Code\n\n### 步骤 1：电脑端安装\n\n```bash\n# 全局安装 Happy Coder\nnpm i -g happy-coder\n\n# 如果使用 Claude Code\nhappy\n\n# 如果使用 Codex\nhappy codex\n```\n\n执行后会在终端显示二维码配对界面。\n\n---\n\n### 步骤 2：手机端安装\n\n#### iOS App\n```\nhttps://apps.apple.com/us/app/happy-claude-code-client/id6748571505\n```\n\n#### Android App\n```\nhttps://play.google.com/store/apps/details?id=com.ex3ndr.happy\n```\n\n#### 网页版（无需安装 App）\n```\nhttps://app.happy.engineering/\n```\n\n**建议**：App 体验优于网页版\n\n---\n\n### 步骤 3：扫码配对\n\n打开手机 Happy App，扫描电脑终端显示的二维码，即可完成配对。\n\n配对成功后，手机端可进行以下操作：\n- ✓ 实时查看 Claude Code 运行状态\n- ✓ 发送消息与 AI 对话\n- ✓ 接收进度通知\n\n---\n\n## 🎯 使用方法\n\n### 基础操作\n1. 电脑端运行 `happy` 或 `happy codex`\n2. 手机端扫码连接\n3. 在手机 App 中直接开始对话\n\n### 电脑端接管\n当手机连接时，电脑终端会进入待机状态。\n- **方法 1**：按空格键切换回电脑操作\n- **方法 2**（推荐）：开两个终端，一个给手机用，一个电脑用，互不干扰\n\n### 语音输入优化\n推荐安装「豆包语音输入法」，可精准识别：\n- 生僻单词（Anthropic、Next.js 等）\n- 不标准的发音\n\n---\n\n## 🔄 多会话支持\n\nHappy 支持同时打开多个 Session，可实现：\n- 多个任务并行处理\n- 不同项目独立管理\n- 提升工作效率\n\n---\n\n## 📌 关键要点\n\n1. **安全性**：端到端加密确保代码数据不泄露\n2. **灵活性**：手机/电脑随时切换，无缝衔接\n3. **实时性**：进度通知、错误推送即时响应\n4. **并发性**：多会话支持，任务并行不冲突\n\n---\n\n## 🔗 相关链接\n\n- Happy Coder GitHub：（待补充）\n- Claude Code 官方文档：（待补充）\n"
+    }
+  }
+}

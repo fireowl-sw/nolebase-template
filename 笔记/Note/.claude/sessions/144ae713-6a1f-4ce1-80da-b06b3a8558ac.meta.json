@@ -1,0 +1,19 @@
+{
+  "id": "144ae713-6a1f-4ce1-80da-b06b3a8558ac",
+  "title": "List AI development tools",
+  "titleGenerationStatus": "success",
+  "createdAt": 1768638363474,
+  "updatedAt": 1768640811508,
+  "lastResponseAt": 1768638363475,
+  "sessionId": "144ae713-6a1f-4ce1-80da-b06b3a8558ac",
+  "sdkSessionId": "144ae713-6a1f-4ce1-80da-b06b3a8558ac",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 5831,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 13824,
+    "contextWindow": 200000,
+    "contextTokens": 19655,
+    "percentage": 10
+  }
+}

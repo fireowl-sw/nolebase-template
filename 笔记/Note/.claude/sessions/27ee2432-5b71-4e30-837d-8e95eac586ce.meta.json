@@ -1,0 +1,20 @@
+{
+  "id": "27ee2432-5b71-4e30-837d-8e95eac586ce",
+  "title": "Summarize command line AI tools",
+  "titleGenerationStatus": "success",
+  "createdAt": 1768642577870,
+  "updatedAt": 1768644539562,
+  "lastResponseAt": 1768642577872,
+  "sessionId": "27ee2432-5b71-4e30-837d-8e95eac586ce",
+  "sdkSessionId": "27ee2432-5b71-4e30-837d-8e95eac586ce",
+  "currentNote": "Archive/ai-guide/Vibe Coding 零基础教程/10 编程工具/05 AI 命令行编程工具.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 12301,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27264,
+    "contextWindow": 200000,
+    "contextTokens": 39565,
+    "percentage": 20
+  }
+}
